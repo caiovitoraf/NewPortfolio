@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="text-center animate-fade-in space-y-8">
           <div className="flex justify-center mb-12">
             <img 
-              src="/public/caioVector.svg" 
+              src="/caioVector.svg" 
               alt="Colorful Logo"
               className="h-24 md:h-32"
             />

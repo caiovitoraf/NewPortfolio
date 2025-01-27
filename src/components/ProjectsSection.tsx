@@ -8,11 +8,11 @@ const designProjects = [
     descriptionKey: "projects.g10burguer",
     tools: "Figma, UI Design, UX Research",
     icon: Figma,
-    image: "/public/G10-COVER.png",
+    image: "/G10-COVER.png",
     gallery: [
-      "/public/G10-COVER-1.png",
-      "/public/G10-COVER-2.png",
-      "/public/G10-COVER-3.png"
+      "/G10-COVER-1.png",
+      "/G10-COVER-2.png",
+      "/G10-COVER-3.png"
     ]
   },
   {
@@ -20,23 +20,23 @@ const designProjects = [
     descriptionKey: "projects.bikengo",
     tools: "Figma",
     icon: Figma,
-    image: "/public/BIKE-COVER.png",
+    image: "/BIKE-COVER.png",
     gallery: [
-      "/public/BIKE-COVER-1.png",
-      "/public/BIKE-COVER-2.png",
-      "/public/BIKE-COVER-3.png"
+      "/BIKE-COVER-1.png",
+      "/BIKE-COVER-2.png",
+      "/BIKE-COVER-3.png"
     ]
   },
   {
     title: "Simple Pills",
     descriptionKey: "projects.simplepills",
-    tools: "Figma",
+    tools: "Figma", 
     icon: Figma,
-    image: "/public/SIMPLE-PILLS-COVER.png",
+    image: "/SIMPLE-PILLS-COVER.png",
     gallery: [
-      "/public/SIMPLE-PILLS-COVER-1.png",
-      "/public/SIMPLE-PILLS-COVER-2.png",
-      "/public/SIMPLE-PILLS-COVER-3.png"
+      "/SIMPLE-PILLS-COVER-1.png",
+      "/SIMPLE-PILLS-COVER-2.png",
+      "/SIMPLE-PILLS-COVER-3.png"
     ]
   }
 ];
@@ -47,10 +47,10 @@ const codeProjects = [
     descriptionKey: "projects.talkables",
     tools: "Android Studio, Kotlin, Figma",
     icon: Code,
-    image: "/public/TALKABLES-COVER.png",
+    image: "/TALKABLES-COVER.png",
     gallery: [
-      "/public/TALKABLES-COVER.png",
-      "/public/TALKABLES-COVER-1.png"
+      "/TALKABLES-COVER.png",
+      "/TALKABLES-COVER-1.png"
     ]
   },
   {
@@ -58,10 +58,10 @@ const codeProjects = [
     descriptionKey: "projects.toxicgas",
     tools: "TinkerCad, Arduino",
     icon: Terminal,
-    image: "/public/arduino.jpg",
+    image: "/arduino.jpg",
     gallery: [
-      "/public/TOXIC-COVER.png",
-      "/public/TOXIC-COVER-1.png"
+      "/TOXIC-COVER.png",
+      "/TOXIC-COVER-1.png"
     ]
   },
   {
@@ -69,9 +69,9 @@ const codeProjects = [
     descriptionKey: "projects.portfolio",
     tools: "React, TypeScript, CSS",
     icon: Github,
-    image: "/public/PORTFOLIO-WEBSITE.png",
+    image: "/PORTFOLIO-WEBSITE.png",
     gallery: [
-      "/public/PORTFOLIO-WEBSITE 1.png"
+      "/PORTFOLIO-WEBSITE 1.png"
     ]
   }
 ];
