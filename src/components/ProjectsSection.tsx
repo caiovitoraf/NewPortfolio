@@ -71,7 +71,7 @@ const codeProjects = [
     icon: Github,
     image: "/PORTFOLIO-WEBSITE.png",
     gallery: [
-      "/PORTFOLIO-WEBSITE 1.png"
+      "/PORTFOLIO-WEBSITE-1.png"
     ]
   }
 ];
