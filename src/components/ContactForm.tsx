@@ -12,7 +12,7 @@ const ContactForm = () => {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="w-48 h-48 rounded-full overflow-hidden flex-shrink-0">
               <img
-                src="/public/eusoucaio.jpg"
+                src="/eusoucaio.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
