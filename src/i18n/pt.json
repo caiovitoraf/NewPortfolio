@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Bem-vindo ao Meu Portfólio",
+    "description": "Sou um desenvolvedor apaixonado especializado em criar aplicações bonitas e funcionais. Explore meus projetos e vamos construir algo incrível juntos.",
+    "cta": "Ver Meus Trabalhos"
+  },
+  "nav": {
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "contact": "Contato"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "design": "Projetos de Design",
+    "code": "Projetos de Código",
+    "viewDetails": "Ver Detalhes",
+    "g10burguer": {
+      "description": "Projeto Acadêmico cujo objetivo era desenvolver um App de entrega de um restaurante fictício de fast food. Apresenta telas de Login, Perfil, Menu, Carrinho, Entrega e Recibo.",
+      "longDescription": "Projeto Acadêmico cujo objetivo era desenvolver um App de entrega de um restaurante fictício de fast food. Apresenta telas de Login, Perfil, Menu, Carrinho, Entrega e Recibo. Neste projeto, fiquei responsável por toda a parte visual, além de auxílio ao desenvolvimento do código em Kotlin."
+    },
+    "bikengo": {
+      "description": "Projeto Acadêmico cujo objetivo era desenvolver um App de aluguel de bicicletas com telas como Login, Menu, Aluguel, Devolução e Recibo.",
+      "longDescription": "Projeto Acadêmico cujo objetivo era desenvolver um App de aluguel de bicicletas com telas como Login, Menu, Aluguel, Devolução e Recibo. Neste projeto, fiquei responsável por toda a parte visual."
+    },
+    "simplepills": {
+      "description": "Projeto pessoal de um App desenvolvido para engajar usuários a tomar medicamentos que são comumente esquecidos.",
+      "longDescription": "Projeto pessoal de um App desenvolvido para engajar usuários a tomar medicamentos que são comumente esquecidos. O objetivo é dar ao usuário uma experiência de pontuação pelos remédios tomados em seus devidos horários, além de manter registro do uso dos medicamentos, unindo diversão e educação."
+    },
+    "talkables": {
+      "description": "Projeto pessoal de um App desenvolvido para gerar conversas em grupos de 2 ou mais pessoas.",
+      "longDescription": "Projeto pessoal de um App desenvolvido para gerar conversas em grupos de 2 ou mais pessoas. O aplicativo apresenta um único botão que ao ser clicado gera uma frase com um tema que servirá de tópico para que todos do grupo interajam com o tema. O objetivo é ser usado como um 'quebra gelo' em conversas com amigos novos!"
+    },
+    "toxicgas": {
+      "description": "Projeto Acadêmico sobre Sistemas Embarcados. Desenvolvimento de um Sistema com base em Arduino UNO.",
+      "longDescription": "Projeto Acadêmico sobre Sistemas Embarcados. Desenvolvimento de um Sistema Embarcado com base em um Arduino UNO, através de simulação e documentação de todos os componentes utilizados além de documentação de funcionamento do dispositivo."
+    },
+    "portfolio": {
+      "description": "Site de portfólio pessoal mostrando projetos e habilidades.",
+      "longDescription": "Site de portfólio moderno construído com React e TypeScript, apresentando um design responsivo, mostruário de projetos e formulário de contato."
+    }
+  },
+  "skills": {
+    "title": "Habilidades & Experiência"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Desenvolvedor apaixonado por desenvolvimento web com foco em experiências de usuário intuitivas e performáticas. Amo criar soluções inovadoras e funcionais que fazem a diferença."
+  }
+}

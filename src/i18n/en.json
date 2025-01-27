@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Welcome to My Portfolio",
+    "description": "I'm a passionate developer specializing in creating beautiful and functional applications. Explore my projects and let's build something amazing together.",
+    "cta": "View My Work"
+  },
+  "nav": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "projects": {
+    "title": "My Projects",
+    "design": "Design Projects",
+    "code": "Code Projects",
+    "viewDetails": "View Details",
+    "g10burguer": {
+      "description": "Academic project developing a fast-food delivery app with comprehensive features including login, profile, menu, cart, and delivery tracking.",
+      "longDescription": "Academic project developing a fast-food delivery app with comprehensive features including login, profile, menu, cart, and delivery tracking. In this project, I was responsible for all the visual aspects and assisted with Kotlin code development."
+    },
+    "bikengo": {
+      "description": "Academic project for a bicycle rental app featuring login, menu, rental management, and receipt generation.",
+      "longDescription": "Academic project for a bicycle rental app featuring login, menu, rental management, and receipt generation. In this project, I was responsible for all the visual design aspects."
+    },
+    "simplepills": {
+      "description": "A personal project aimed at helping users track their medication schedule through a gamified experience.",
+      "longDescription": "A personal project aimed at helping users track their medication schedule through a gamified experience. The goal is to provide users with a scoring system for taking medications on time while maintaining usage records, combining fun and education."
+    },
+    "talkables": {
+      "description": "A conversation starter app that generates topics for group discussions. Perfect for breaking the ice with new friends!",
+      "longDescription": "A personal project app developed to generate conversations in groups of 2 or more people. The app features a single button that, when clicked, generates a phrase with a theme that will serve as a topic for everyone in the group to interact with. The goal is to be used as an 'ice breaker' in conversations with new friends!"
+    },
+    "toxicgas": {
+      "description": "Academic project developing an Arduino-based toxic gas sensor system with simulation and documentation.",
+      "longDescription": "Academic project on Embedded Systems. Development of an Embedded System based on an Arduino UNO, through simulation and documentation of all components used, as well as device operation documentation."
+    },
+    "portfolio": {
+      "description": "Personal portfolio website showcasing projects and skills.",
+      "longDescription": "Modern portfolio website built with React and TypeScript, featuring a responsive design, project showcase, and contact form."
+    }
+  },
+  "skills": {
+    "title": "Skills & Expertise"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Passionate developer specializing in web development with a focus on intuitive and performant user experiences. I love creating innovative and functional solutions that make a difference."
+  }
+}
